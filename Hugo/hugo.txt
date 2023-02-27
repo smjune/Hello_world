@@ -1,0 +1,37 @@
+baseURL: https://smjune.github.io/Hello_world/
+# languageCode: en-us
+title: MyoungJune Sung says Hello Wrold
+theme: 'PaperMod'
+
+taxonomies:
+  category: categories
+  tags: tags
+  
+menu:                   # to display menu on top-left side of site.
+  main:
+    - identifier: Categories
+      name: categories
+      url: categories/
+      weight: 5
+    - name: Tags
+      url: tags/
+      weight: 10
+    - name: Archive
+      url: archives/
+      weight: 20
+    - name: Search
+      url: search/
+      weight: 30
+    - identifier: GitHub
+      name: github repo
+      url: https://github.com/smjune/Hello_world/
+      weight: 40
+      
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+Paras:
+  defaultTheme: auto 
