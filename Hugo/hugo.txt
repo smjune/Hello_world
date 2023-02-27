@@ -35,3 +35,11 @@ outputs:
 
 Paras:
   defaultTheme: auto 
+  
+  DateFormat: "January 2, 2006"
+  
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
