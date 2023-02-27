@@ -33,8 +33,10 @@ outputs:
     - RSS
     - JSON # is necessary
 
-Paras:
+Params:
   defaultTheme: auto 
+
+  comments: true 
   
   DateFormat: "January 2, 2006"
   
@@ -43,3 +45,5 @@ Paras:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowToc: true
+
+

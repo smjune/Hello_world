@@ -2,6 +2,30 @@
 title: "Gitlab"
 date: 2023-02-06T20:28:27+09:00
 
+# weight: 1
+# aliases: ["/first"]
+tags: ["hugo","gitlab",]
+categories: ["Posts",]
+#author: "Me"
+# author: ["Me", "You"] # multiple authors
+showToc: true
+#TocOpen: false
+#draft: false
+#hidemeta: false
+comments: true
+description: "GitLab 에 백업하기"
+#canonicalURL: "https://canonical.url/to/page"
+#disableHLJS: true # to disable highlightjs
+#disableShare: false
+#disableHLJS: false
+#hideSummary: false
+#searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 ---
 
 # GitLab 으로 Deploy 하기 

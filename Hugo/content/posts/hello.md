@@ -2,6 +2,31 @@
 title: "Hello"
 date: 2023-02-05T10:22:18+09:00
 
+
+# weight: 1
+# aliases: ["/first"]
+tags: ["hugo","github", "gitlab",]
+categories: ["Posts",]
+#author: "Me"
+# author: ["Me", "You"] # multiple authors
+showToc: true
+#TocOpen: false
+#draft: false
+#hidemeta: false
+comments: true
+description: "GitHub에 블로그 만들기"
+#canonicalURL: "https://canonical.url/to/page"
+#disableHLJS: true # to disable highlightjs
+#disableShare: false
+#disableHLJS: false
+#hideSummary: false
+#searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 ---
 
 # github 에서 블로그 만들기 
