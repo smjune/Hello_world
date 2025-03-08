@@ -1,10 +1,22 @@
 ---
-title: {{ replace .Name "-" " " | title }}
-date: {{ .Date }}
-draft: true
+title: Test
+date: 2025-02-07T10:10:10+09:00
+tags:
+  - hugo
+  - github
+  - gitlab
+categories:
+  - Posts
+showToc: true
+comments: true
+description: GitHub에 블로그 만들기
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 ---
-
-  
 
 156
 공습을 마치고 돌아온 포격기의 피탄 흔적을 보고 해당 위치에 방탄장갑을 더 하자는 사람들이 있다.
